@@ -1,2 +1,2 @@
 # conflicto hecho por el Estudiante A
-print("Validaciones básicas inicializadas.")
+print("Validaciones actualizadas por el Estudiante A")
