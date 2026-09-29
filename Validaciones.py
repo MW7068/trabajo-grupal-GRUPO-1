@@ -1,0 +1,1 @@
+print("Validaciones básicas inicializadas.")
